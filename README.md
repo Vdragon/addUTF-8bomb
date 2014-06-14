@@ -10,3 +10,8 @@ This work is taken from [Stack Overflow](http://stackoverflow.com) user [Steven 
 
 ## License
 This project license is inherited from the Stack Exchange user-contributed content, which is [Creative Commons — Attribution-ShareAlike 3.0 Unported — CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/).
+
+## Frequently Asked Questions and answers
+### Why "addUTF-8bomb" instead of "addUTF-8bom"?
+It's just really like a bomb actually ;).
+
