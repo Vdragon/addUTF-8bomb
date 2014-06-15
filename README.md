@@ -11,6 +11,22 @@ This work is taken from [Stack Overflow](http://stackoverflow.com) user [Steven 
 ## License
 This project license is inherited from the Stack Exchange user-contributed content, which is [Creative Commons — Attribution-ShareAlike 3.0 Unported — CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/).
 
+## Software requirement
+* [Fine Free File Command](http://www.darwinsys.com/file/)
+	* Microsoft Windows
+		* [File for Windows](http://gnuwin32.sourceforge.net/packages/file.htm)
+	* GNU/Linux distributions
+		* Debian-based GNU/Linux distributions
+			* software package: `file`
+			
+* [Coreutils - GNU core utilities](http://www.gnu.org/software/coreutils/)
+	* Microsoft Windows
+		* [CoreUtils for Windows](http://gnuwin32.sourceforge.net/packages/coreutils.htm)
+	* GNU/Linux distributions
+		* It should be pre-installed
+
+* [GNU Bash](http://www.gnu.org/software/bash/)
+
 ## Frequently Asked Questions and answers
 ### Why "addUTF-8bomb" instead of "addUTF-8bom"?
 It's just really like a bomb actually ;).
