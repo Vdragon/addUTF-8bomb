@@ -19,10 +19,12 @@ do
 		then
 			echo "# $file already has BOM, skipping." 1>&2
 		else
-			( uconv -f utf-8 -t utf-8 --add-signature 
-					< "${file}~" 
-					> "${file}" )
+			( mv "${file}" "${file}.without_BOM" \
+				&& uconv -f utf-8 -t utf-8 --add-signature \
+					< "${file}.without_BOM" \
+					> "${file}" )\
 				|| ( echo Error processing "$file" 1>&2 ; 
 				exit 1)
+			rm "${file}.without_BOM"
 	fi
 done
