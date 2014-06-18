@@ -15,7 +15,7 @@ do
 			continue
 	fi
 	TYPE=`file - < "$file" | cut -d: -f2`
-	if echo "$TYPE" | grep -q '(with BOM)';
+	if echo "$TYPE" | grep -q "(with BOM)";
 		then
 			echo "# $file already has BOM, skipping." 1>&2
 		else
