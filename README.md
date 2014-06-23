@@ -18,13 +18,11 @@ This project license is inherited from the Stack Exchange user-contributed conte
 	* GNU/Linux distributions
 		* Debian-based GNU/Linux distributions
 			* software package: `file`
-			
 * [Coreutils - GNU core utilities](http://www.gnu.org/software/coreutils/)
 	* Microsoft Windows
 		* [CoreUtils for Windows](http://gnuwin32.sourceforge.net/packages/coreutils.htm)
 	* GNU/Linux distributions
 		* It should be pre-installed
-
 * [GNU Bash](http://www.gnu.org/software/bash/)
 
 ## Frequently Asked Questions and answers
