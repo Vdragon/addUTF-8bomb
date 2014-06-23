@@ -12,7 +12,7 @@ This work is taken from [Stack Overflow](http://stackoverflow.com) user [Steven 
 This project license is inherited from the Stack Exchange user-contributed content, which is [Creative Commons — Attribution-ShareAlike 3.0 Unported — CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/).
 
 ## Software requirement
-* [Fine Free File Command](http://www.darwinsys.com/file/)
+* [File Free File Command](http://www.darwinsys.com/file/)
 	* Microsoft Windows
 		* [File for Windows](http://gnuwin32.sourceforge.net/packages/file.htm)
 	* GNU/Linux distributions
